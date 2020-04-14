@@ -1,0 +1,1 @@
+Based on https://developers.cloudflare.com/access/setting-up-access/validate-jwt-tokens/
